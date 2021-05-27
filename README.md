@@ -1,7 +1,36 @@
-# Getting Started with Create React App
+# Tinder Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Insight
+
+This project has been completed by following [Let's Build a TINDER Clone with REACT JS](https://www.youtube.com/watch?v=DQfeB_FKKkc) from the Clever 
+Programmer YouTube channel.
+<br>
+Aside from ReactJS, this also connects to a firebase cloud firestore database.
+
+
+# How to run
+(1) Clone the repo. <br>
+(2) Run npm start.  <br>
+(3) No dependency tracker has been added yet, may add in future builds to make sure others can download.
+
+# Dependencies used
+react-router-dom <br>
+material-ui <br>
+firebase <br>
+react-tinder-card <br>
+
+# Stack used
+(1) Mongodb <br>
+(2) Express <br>
+(3) Reactjs <br>
+(4) Nodejs <br>
+(5) css <br>
+
+# snapshots ;)
+
+# Further Documentation
 ## Available Scripts
 
 In the project directory, you can run:
