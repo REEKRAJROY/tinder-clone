@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://user-images.githubusercontent.com/55712612/119787206-9b2f6300-beee-11eb-81c5-9fb6251072bb.mp4
-
 
 ![5bgujs](https://user-images.githubusercontent.com/55712612/120093476-35ceb280-c138-11eb-991c-9b9c2f2db5bb.gif)
 
